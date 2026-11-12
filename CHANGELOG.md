@@ -9,6 +9,13 @@ but (as of [0.23.9-th.1.1.0]) versioned independently from the main project vers
 that compatibility and features specific to Treehouse Digital are easily tracked.
 
 
+## [0.16.4-th.1.1.0] - 2026-11-12
+
+### Changed
+
+- Hush about Nuke 17.1
+
+
 ## [0.16.4-th.1.0.0] - 2026-08-03
 
 ### Fixed
